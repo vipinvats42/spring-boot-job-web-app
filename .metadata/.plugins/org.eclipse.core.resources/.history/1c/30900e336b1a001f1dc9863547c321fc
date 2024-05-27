@@ -1,0 +1,21 @@
+package com.telusko.app.service;
+
+import java.util.List;
+
+import org.springframework.stereotype.Component;
+
+import com.telusko.app.model.JobPost;
+
+@Component
+public class JobService {
+
+	public void addJob() {
+		
+	}
+	
+	public List<JobPost> getAllJobs(){
+		
+	}
+	
+	
+}
